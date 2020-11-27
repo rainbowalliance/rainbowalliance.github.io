@@ -1,0 +1,72 @@
+/********************************************************************************
+
+  Programmer: Rainbow Alliance
+
+  Date:		  11/26/2020
+
+  Filename:   mayablue.css
+
+
+********************************************************************************/
+
+body
+{
+	background-;
+	background-;
+	background-;
+	background-;
+	background-;
+
+	background-color: #ffffff;
+
+	color: #00ffff;
+}
+table
+{
+
+}
+.h1_top
+{
+	text-align: center;
+}
+.nav_top
+{
+	text-align: center;
+}
+a:link
+{
+	color: #f7a8b8;	
+}
+a:visited
+{
+	color: #00ffff;
+}
+a:hover
+{
+	color: #e0ffff;
+}
+.space
+{
+	letter-spacing: 0.5em;
+	margin: .9em;
+	cursor: pointer;
+	text-decoration: underline;
+}
+footer
+{
+	text-align: center;
+}
+.dark-mode
+{
+	background-color: #55cdfc;
+	color: #f7a8b8;
+}
+figure
+{
+	
+}
+video
+{
+
+}
+

@@ -1,0 +1,73 @@
+/********************************************************************************
+
+  Programmer: Rainbow Alliance
+
+  Date:		  11/26/2020
+
+  Filename:   jJam.css
+
+
+********************************************************************************/
+
+body
+{
+	background-;
+	background-;
+	background-;
+	background-;
+	background-;
+
+	background-color: #a60061;
+
+	color: #00ffff;
+}
+table
+{
+
+}
+.h1_top
+{
+	text-align: center;
+}
+.nav_top
+{
+	text-align: center;
+}
+a:link
+{
+	color: #afeeee;	
+}
+a:visited
+{
+	color: #00ffff;
+}
+a:hover
+{
+	color: #e0ffff;
+}
+.space
+{
+	letter-spacing: 0.5em;
+	margin: .9em;
+	cursor: pointer;
+	text-decoration: underline;
+}
+footer
+{
+	text-align: center;
+}
+.dark-mode
+{
+	background-color: #333333;
+	color: #40e0d0;
+}
+figure
+{
+	
+}
+video
+{
+
+}
+
+/****************************************************************************************************
