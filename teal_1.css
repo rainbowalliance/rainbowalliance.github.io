@@ -124,3 +124,7 @@ video
 		display: inline-block;
 				 
  }
+ img
+{
+	background-image: #008080;
+}
